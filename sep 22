@@ -1,4 +1,4 @@
-# Author: Pawar, Date: Sep 22 2021, Purpose: Calculate probability distributions
+# Author: Lewis, Date: Sep 22 2021, Purpose: Calculate probability distributions
 
 # Since only one out of five possible answers is correct, the probability of answering a question correctly by random is 1/5=0.2. 
 12 questions
